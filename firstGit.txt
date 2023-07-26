@@ -3,3 +3,5 @@ My first git
 	
 commit -> save in git
 status -> unsaved files
+
+git config credential.helper store
