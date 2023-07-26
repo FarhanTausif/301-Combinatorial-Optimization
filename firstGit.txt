@@ -1,0 +1,5 @@
+My first git
+	- 26.07.23
+	
+commit -> save in git
+status -> unsaved files
